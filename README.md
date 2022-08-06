@@ -5,7 +5,7 @@ Polaroid is a simple social media web application having CRUD functionalities.
 
 <p align="center">
 <a href="https://polaroidapp.netlify.com">
-<img src="./src/img/Logo.png" alt="Polaroid-logo"/>
+<img src="./images/Logo.png" alt="Polaroid-logo"/>
 </a>
 </p>
 
